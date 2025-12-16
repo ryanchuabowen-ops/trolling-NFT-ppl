@@ -1,8 +1,6 @@
 Singapore Copyright Act 2021:
 https://sso.agc.gov.sg/Act/CA2021
 
-I am not copyrighting the property (AI models) of the companies involved (facebook, google). The application of these AI models in the form of a website that summarises news articles is mine.
-
 Does the creator need to register the literary work, source code, programme, etc with authorities in Singapore?
 https://ask.gov.sg/ipos/questions/clhersmdj0002mu0827iemc5a
 
